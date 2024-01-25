@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the Solution for the HTML5 Assignments for the Elzero Web School website.
+These are 33 HTML assignments from "Elzero Web School" website and this is the Solution for these Assignments.
 
 ## Used Technologies
 
